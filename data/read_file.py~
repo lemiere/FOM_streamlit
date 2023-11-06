@@ -1,0 +1,11 @@
+
+import time
+import random as rnd
+import math as m
+import numpy as np
+
+
+input_gb_filename = "data/VGB.npy"
+gb_config_file = np.load(input_gb_filename)
+
+
