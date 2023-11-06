@@ -1,4 +1,4 @@
-# Test streamlit using radon decay data analysis
+# Figure of Merit online display (for fun)
 
 * Author : Yves Lemiere & Maude Lejeune
 * email  : lemiere-at-lpccaen.in2p3.fr / lejeune-at-apc.univ-paris7.fr
