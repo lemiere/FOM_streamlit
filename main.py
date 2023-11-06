@@ -214,6 +214,13 @@ fig.update_layout(template="ggplot2")
 
 fig.update_layout(hovermode=display_mode)
 
+fig.update_layout(legend=dict(orientation="h",
+                              yanchor="bottom",
+                              y=1.02,
+                              xanchor="right",
+                              x=1
+                              )
+                  )
 
 fig.update_layout(height=600, width=1000)# , grid= {'rows': 7, 'columns': 6})
 tab_sensitivity.plotly_chart(fig, theme=None, use_container_width=True)
