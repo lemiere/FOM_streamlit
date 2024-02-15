@@ -12,7 +12,7 @@
     - [ ] add MBHB (Yves)
     - [ ] add all GBs
     - [ ] add EMRI, SOBH, stochastic bck 
- - [ ] Waterfall plot interface (Maude)
+ - [ ] Waterfall plot interface (Come)
  - [ ] Precomputed data file management
      - [ ] Script to (re)produce them
      - [ ] Read from web interface
